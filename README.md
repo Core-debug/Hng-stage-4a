@@ -2,7 +2,7 @@ AI Page Summarizer 🚀
 A high-performance Chrome Extension that extracts the "meat" of any webpage and generates a concise, 3-bullet point summary using Llama 3.3 70B on Groq.
 
 📺 Demo
-[Link to your 2-5 minute video here]
+https://drive.google.com/file/d/12HUlIgkaAIsvR4O8swl7Vy4DUbxN59aY/view?usp=sharing
 
 🛠 Setup Instructions
 Clone the Repo:
